@@ -1,0 +1,6 @@
+log/
+.idea
+*.json
+./init.php
+db/config/site-www.php
+*.xml
