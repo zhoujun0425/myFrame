@@ -14,3 +14,6 @@ define('APP_DEBUG', true);
 define('APP_URL', 'http://localhost/myphp');
 // 加载框架
 require './frame/Frame.php';
+
+
+$a = 1;
